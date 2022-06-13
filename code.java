@@ -8,6 +8,6 @@ public class AsciiValue {
         int castAscii = (int) ch;
 
         System.out.println("The ASCII value of " + ch + " is: " + ascii);
-        System.out.println("The ASCII value of " + ch + " is: " + castAscii);
+        System.out.println("The ASCII values of " + ch + " is: " + castAscii);
     }
 }
